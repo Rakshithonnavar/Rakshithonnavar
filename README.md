@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Rakshit,👋 a tech enthusiast👨‍💻 
-Self Motivated Engineering Student ,budding Software engineer who loves exploring new trends.  
+Self-motivated engineering Student  and budding **Software engineer** who loves exploring new trends.  
 
  <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Data Structures & Algorithms.
