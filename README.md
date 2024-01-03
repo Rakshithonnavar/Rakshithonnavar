@@ -10,7 +10,6 @@ Self-motivated engineering Student  and budding **Software engineer** who loves 
 - 📫 You can reach me by :rakshithonnavar20@gmail.com || by the links in my *Bio*.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A Developer will not call it *Bug* ❌,instead it's an *undocumented feature*✅
-- <!--Skills---section-->
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshithonnavar&label=Profile%20views&color=0e75b6&style=flat" alt="rakshithonnavar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshithonnavar" alt="rakshithonnavar" /></a> </p>
