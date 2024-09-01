@@ -20,7 +20,7 @@ Self-motivated engineering Graduate and **Software engineer** who loves explorin
 <a href="https://fb.com/rakshit honnavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakshit honnavar" height="30" width="40" /></a>
 <a href="https://instagram.com/this_is_raksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this_is_raksh" height="30" width="40" /></a>
  <a href="https://x.com/Rakshitvh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rakshitvh" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/Rakshithonnavar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Rakshitvh" height="30" width="40" /></a>
+ <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=leetcode" alt="leetcode" width="30" height="40"/></a></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
