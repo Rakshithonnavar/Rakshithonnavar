@@ -3,12 +3,12 @@ I'm Rakshit,👋 a tech enthusiast👨‍💻
 Self-motivated engineer who loves exploring new trends.  
 
  <!--- 🔭 I’m currently working on ...-->
- I’m working as an SLR intern in the National Centre for Communication Security.
-- 🌱 I’m currently learning Data Structures & Algorithms.
+ I’m working as a Performance Testing Engineer at Blue Yonder Inc.
+<!--- 🌱 I’m currently learning Data Structures & Algorithms.-->
 - 👯 I’m looking to collaborate on Web development Projects.
  <!--- --🤔 I’m looking for help with ...-->
-- 💬 Ask me about Front-End Development & UI development.
-- 📫 You can reach me by:rakshithonnavar20@gmail.com.
+- 💬 Ask me how we can achieve performance 💯, Scalability, & Reliability in Digital Products!🖥️🧑‍💻
+- 📫 You can reach me at rakshithonnavar20@gmail.com.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A Developer will not call it *Bug* ❌,instead it's an *undocumented feature*✅
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshithonnavar&label=Profile%20views&color=0e75b6&style=flat" alt="rakshithonnavar" /> </p>
