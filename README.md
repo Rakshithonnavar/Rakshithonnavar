@@ -6,7 +6,7 @@ Ex-Performance Test Engineer at **BlueYonder** — I make sure systems hold up u
   <img src="https://komarev.com/ghpvc/?username=rakshithonnavar&label=Profile%20views&color=0e75b6&style=flat" alt="rakshithonnavar" />
 </p>
 
-- 🔭 Currently validating performance at scale for business-critical APIs — JMeter, Kafka, Azure Monitoring, JVM analysis
+- 🔭 Validated performance at scale for business-critical APIs of TMS at BlueYonder — JMeter, Kafka, Azure Monitoring, JVM analysis 
 - 🤖 Building agentic AI systems on the side — recently shipped an industrial safety intelligence platform and a civic-tech assistant, both in production
 - 👯 Open to collaborating on Web Dev and Applied AI projects
 - 💬 Ask me about performance engineering, distributed systems reliability, or how I'm using LLMs to build autonomous agents
