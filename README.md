@@ -21,7 +21,7 @@ Ex-Performance Test Engineer at **BlueYonder** — I make sure systems hold up u
 **[SENTINEL — AI-Powered Industrial Safety Intelligence Platform](https://sentinel-omega-navy.vercel.app/)**
 A 3-agent pipeline (Risk Fusion, Incident RAG, Emergency Responder) that detects *compound* industrial hazards in real time — built on Google Gemini 2.5 Flash, FastAPI, ChromaDB, and a React + WebSocket dashboard.
 
-**[Smart Bharat — AI-Powered Civic Companion](https://citizen-connect-46.emergent.host/)**
+**[Smart Bharat — AI-Powered Civic Companion](https://smart-bharat-civic-companion-one.vercel.app/)**
 A full-stack GenAI assistant (React + FastAPI + MongoDB) that helps citizens file complaints and discover government schemes in natural conversation — 🏆 **Top 10 nationally, PromptWars x Global Prompt Challenge 2026**.
 
 **[Autonomous Insurance Claims Processing Agent](https://github.com/Rakshithonnavar/insurance-claims-agent)**
