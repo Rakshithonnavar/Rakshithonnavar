@@ -7,7 +7,6 @@ Ex-Performance Test Engineer at **BlueYonder** — I make sure systems hold up u
 </p>
 
 - 🔭 Validated performance at scale for business-critical APIs of TMS at BlueYonder — JMeter, Kafka, Azure Monitoring, JVM analysis
-- 🎓 Currently learning: Oracle Agentic AI Foundations 2026
 - 🤖 Building agentic AI systems on the side — recently shipped an industrial safety intelligence platform and a civic-tech assistant, both in production
 - 👯 Open to collaborating on Web Dev and Applied AI projects
 - 💬 Ask me about performance engineering, distributed systems reliability, or how I'm using LLMs to build autonomous agents
