@@ -70,15 +70,15 @@ An end-to-end FNOL processing agent using Gemini's structured JSON-mode output t
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<!--<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithonnavar&show_icons=true&locale=en&layout=compact" alt="top languages" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api?username=rakshithonnavar&show_icons=true&locale=en" alt="github stats" width="48%" />
-</p>
+</p>-->
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshithonnavar" alt="streak stats" />
 </p>
 
-<p align="left">
+<!--<p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshithonnavar&theme=flat&column=7&margin-w=8" alt="trophy" /></a>
-</p>
+</p>-->
