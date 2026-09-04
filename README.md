@@ -28,7 +28,7 @@ An end-to-end FNOL processing agent using Gemini's structured JSON-mode output t
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stacks
 
 **Core Languages**
 <p align="left">
