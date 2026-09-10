@@ -70,9 +70,9 @@ An end-to-end FNOL processing agent using Gemini's structured JSON-mode output t
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<!--<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithonnavar&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=400" alt="top languages" />
-</p>
+</p>-->
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=rakshithonnavar&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true" alt="github stats" />
@@ -80,10 +80,6 @@ An end-to-end FNOL processing agent using Gemini's structured JSON-mode output t
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshithonnavar&theme=dark" alt="streak stats" />
-</p>
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=rakshithonnavar&theme=flat&row=2&column=4" alt="trophy" />
 </p>
 
 ---
