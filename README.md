@@ -18,10 +18,10 @@ Ex-Performance Test Engineer at **BlueYonder** — I make sure systems hold up u
 ### 🚀 What I'm Building
 
 **[SENTINEL — AI-Powered Industrial Safety Intelligence Platform](https://sentinel-omega-navy.vercel.app/)**
-A 3-agent pipeline (Risk Fusion, Incident RAG, Emergency Responder) that detects *compound* industrial hazards in real time — built on Google Gemini 2.5 Flash, FastAPI, ChromaDB, and a React + WebSocket dashboard.
+A 3-agent pipeline (Risk Fusion, Incident RAG, Emergency Responder) that detects *compound* industrial hazards in real time — built on Google Gemini 2.5 Flash, FastAPI, ChromaDB, and a React + WebSocket frontend.
 
 **[Smart Bharat — AI-Powered Civic Companion](https://smart-bharat-civic-companion-one.vercel.app/)**
-A full-stack GenAI assistant (React + FastAPI + MongoDB) that helps citizens file complaints and discover government schemes in natural conversation — 🏆 **Top 10 nationally, PromptWars x Global Prompt Challenge 2026**.
+A full-stack GenAI assistant (React + FastAPI + MongoDB) that helps citizens file complaints and discover government schemes in natural conversation — 🏆 **Top 10 nationally, PromptWars x Global Prize**.
 
 **[Autonomous Insurance Claims Processing Agent](https://github.com/Rakshithonnavar/insurance-claims-agent)**
 An end-to-end FNOL processing agent using Gemini's structured JSON-mode output to extract and route claims data autonomously.
@@ -70,15 +70,15 @@ An end-to-end FNOL processing agent using Gemini's structured JSON-mode output t
 
 ### 📊 GitHub Stats
 
-<!--<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithonnavar&show_icons=true&locale=en&layout=compact" alt="top languages" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=rakshithonnavar&show_icons=true&locale=en" alt="github stats" width="48%" />
-</p>-->
-
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshithonnavar" alt="streak stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithonnavar&show_icons=true&locale=en&layout=compact&theme=dark" alt="top languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rakshithonnavar&show_icons=true&locale=en&theme=dark" alt="github stats" width="48%" />
 </p>
 
-<!--<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshithonnavar&theme=flat&column=7&margin-w=8" alt="trophy" /></a>
-</p>-->
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshithonnavar&theme=dark" alt="streak stats" />
+</p>
+
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=rakshithonnavar&theme=flat&column=7&margin-w=8" alt="trophy" />
+</p>
