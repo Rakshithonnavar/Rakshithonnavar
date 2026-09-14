@@ -15,7 +15,7 @@ Ex-Performance Test Engineer at **BlueYonder** — I make sure systems hold up u
 
 ---
 
-### 🚀 What I'm Building
+### 🚀 What I'm Building!
 
 **[SENTINEL — AI-Powered Industrial Safety Intelligence Platform](https://sentinel-omega-navy.vercel.app/)**
 A 3-agent pipeline (Risk Fusion, Incident RAG, Emergency Responder) that detects *compound* industrial hazards in real time — built on Google Gemini 2.5 Flash, FastAPI, ChromaDB, and a React + WebSocket frontend.
