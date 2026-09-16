@@ -18,10 +18,10 @@ Ex-Performance Test Engineer at **BlueYonder** — I make sure systems hold up u
 ### 🚀 What I'm Building!
 
 **[SENTINEL — AI-Powered Industrial Safety Intelligence Platform](https://sentinel-omega-navy.vercel.app/)**
-A 3-agent pipeline (Risk Fusion, Incident RAG, Emergency Responder) that detects *compound* industrial hazards in real time — built on Google Gemini 2.5 Flash, FastAPI, ChromaDB, and a React + WebSocket frontend.
+A 3-agent pipeline (Risk Fusion, Incident RAG, Emergency Responder) that detects *compound* industrial hazards in real time — built on Google Gemini 2.5 Flash, FastAPI, ChromaDB, and a React + WebSo[...]
 
 **[Smart Bharat — AI-Powered Civic Companion](https://smart-bharat-civic-companion-one.vercel.app/)**
-A full-stack GenAI assistant (React + FastAPI + MongoDB) that helps citizens file complaints and discover government schemes in natural conversation — 🏆 **Top 10 nationally, PromptWars x Global Prize**.
+A full-stack GenAI assistant (React + FastAPI + MongoDB) that helps citizens file complaints and discover government schemes in natural conversation — 🏆 **Top 10 nationally, PromptWars x Global Prize**
 
 **[Autonomous Insurance Claims Processing Agent](https://github.com/Rakshithonnavar/insurance-claims-agent)**
 An end-to-end FNOL processing agent using Gemini's structured JSON-mode output to extract and route claims data autonomously.
@@ -52,6 +52,7 @@ An end-to-end FNOL processing agent using Gemini's structured JSON-mode output t
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="claude" />
 <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" alt="rag" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" alt="chromadb" />
+<a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="langchain" /></a>
 <img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge" alt="prompt engineering" />
 </p>
 
